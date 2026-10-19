@@ -1,5 +1,6 @@
 some data of members
 
+Daniils Nils 21 years old student from Latvia University (Computer Science, 3 year). Like programming, swimming (been a professional swimmer), volleyball, football and other active sports. My tip - do as much as you can today, tomorrow will be easier.
 Artur Pereberin - Hey, I'm sound engineer and musician, I decided to start career in IT industry. I have been studying Java for last six months on my own and I'm so excited to be here and get new practical experience working in the team.
 
 My dream is to build high-precision audio processing tools that emulate analog hardware.
