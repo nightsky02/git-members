@@ -1,1 +1,5 @@
 some data of members
+
+Artur Pereberin - Hey, I'm sound engineer and musician, I decided to start career in IT industry. I have been studying Java for last six months on my own and I'm so excited to be here and get new practical experience working in the team.
+
+My dream is to build high-precision audio processing tools that emulate analog hardware.
